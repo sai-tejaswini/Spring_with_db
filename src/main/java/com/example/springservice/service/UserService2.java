@@ -38,5 +38,4 @@ public class UserService2 {
 		userRepo.updateById(user.gender , user.id);
 		return user;
 	}
-	
 }
